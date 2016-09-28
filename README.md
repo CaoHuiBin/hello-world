@@ -4,4 +4,10 @@ test my github
 test branch
 
 git master change feature1 111222333
+<<<<<<< Updated upstream
 test test bugbugbug
+=======
+test test 111222333
+
+devdevdevdev
+>>>>>>> Stashed changes
